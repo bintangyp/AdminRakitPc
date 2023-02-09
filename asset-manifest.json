@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/AdminRakitPc/static/css/main.3ea3ace3.css",
-    "main.js": "/AdminRakitPc/static/js/main.01c39624.js",
-    "static/media/ComingSoon-Regular.ttf": "/AdminRakitPc/static/media/ComingSoon-Regular.b0a0957c7a974d3f4396.ttf",
-    "index.html": "/AdminRakitPc/index.html",
-    "main.3ea3ace3.css.map": "/AdminRakitPc/static/css/main.3ea3ace3.css.map",
-    "main.01c39624.js.map": "/AdminRakitPc/static/js/main.01c39624.js.map"
+    "main.css": "/static/css/main.d2be1d8f.css",
+    "main.js": "/static/js/main.15f2501e.js",
+    "static/media/ComingSoon-Regular.ttf": "/static/media/ComingSoon-Regular.b0a0957c7a974d3f4396.ttf",
+    "index.html": "/index.html",
+    "main.d2be1d8f.css.map": "/static/css/main.d2be1d8f.css.map",
+    "main.15f2501e.js.map": "/static/js/main.15f2501e.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ea3ace3.css",
-    "static/js/main.01c39624.js"
+    "static/css/main.d2be1d8f.css",
+    "static/js/main.15f2501e.js"
   ]
 }
